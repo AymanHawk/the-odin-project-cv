@@ -1,0 +1,6 @@
+.right-panel{
+    border: 2px dashed paleturquoise;
+    position: absolute;
+    right: 20px;
+    width: 55%;
+}

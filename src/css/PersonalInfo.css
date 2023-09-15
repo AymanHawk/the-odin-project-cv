@@ -1,0 +1,15 @@
+.container{
+    border: 2px solid springgreen;
+    border-radius: 10px;
+
+    text-align-last: left;
+}
+
+h3.pi-headers{
+    margin-bottom: 2px;
+}
+
+input{
+    border-radius: 15px;
+    padding: 8px 20px;
+}
